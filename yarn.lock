@@ -10,10 +10,10 @@ accepts@~1.3.7:
     mime-types "~2.1.24"
     negotiator "0.6.2"
 
-adc-node-oauth2-server@^0.1.8:
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/adc-node-oauth2-server/-/adc-node-oauth2-server-0.1.8.tgz#a811b992d70c68dfd27be5eb36b1ae1ce4f4afd7"
-  integrity sha512-JIaMVcmV8Ez0jR+NZbGtNSwELctl606j0oXMVv+9eX5qhn7GtCR/wLtF0Ef3FRetVNowJjzcAu0e1FZRAnU9lw==
+adc-node-oauth2-server@^0.1.9:
+  version "0.1.9"
+  resolved "https://registry.yarnpkg.com/adc-node-oauth2-server/-/adc-node-oauth2-server-0.1.9.tgz#baf0351714d8910fb9c303b5f7f68522b5b44a65"
+  integrity sha512-tNya6xeS9oU4McxLNlGa+17K0I7VluxftlcguMlk+EHVHs8547wCLT9bFjcHrfKEz9RzRTmKA8G3iTX9yQEwVw==
   dependencies:
     basic-auth "2.0.1"
     bluebird "3.7.2"
