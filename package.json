@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:AppDev-Center/express-oauth-server.git"
+    "url": "git@github.com:appdev-center/node-express-oauth2-server.git"
   },
   "keywords": [
     "express",
