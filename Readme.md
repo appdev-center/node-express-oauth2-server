@@ -6,7 +6,7 @@ This is the express wrapper for [oauth2-server](https://github.com/appdev-center
 
 ## Installation
 
-    $ npm install express-oauth-server
+    $ npm install adc-node-express-oauth2-server
 
 ## Quick Start
 
