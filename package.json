@@ -1,6 +1,6 @@
 {
   "name": "adc-node-express-oauth2-server",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "OAuth provider for express",
   "main": "index.js",
   "scripts": {
