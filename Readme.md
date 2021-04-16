@@ -1,8 +1,8 @@
-# ADC Node Express OAuth2 Server [![Build Status](https://travis-ci.org/oauthjs/express-oauth-server.png?branch=master)](https://travis-ci.org/oauthjs/express-oauth-server)
+# ADC Node Express OAuth2 Server
 
 Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with [express](https://github.com/expressjs/express) in [node.js](http://nodejs.org/).
 
-This is the express wrapper for [oauth2-server](https://github.com/appdev-center/express-oauth-server).
+This is the express wrapper for [oauth2-server](https://github.com/appdev-center/node-express-oauth2-server).
 
 ## Installation
 
